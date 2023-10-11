@@ -27,7 +27,7 @@ print(resultado)
 resultado = dict.fromkeys(["nome", "telefone"], "vazio")  # {"nome": "vazio", "telefone": "vazio"}
 print(resultado)
 
-## COPY
+## GET
 
 contatos = {"guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"}}
 
